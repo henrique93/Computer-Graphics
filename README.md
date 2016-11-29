@@ -1,1 +1,3 @@
-# Computer-Graphics
+# Computer Graphics
+
+# Project IST
